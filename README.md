@@ -17,4 +17,5 @@ Replace 'encrypted_image.jpg' with the path to your encrypted image, 'decrypted_
 Common mistakes to avoid:-<br>
 1)Ensure you are running the command from the correct directory where image_encryption.py is located.<br>
 2)Double-check the image file names and paths. They should be accurate and relative to the script's location or absolute paths.<br>
-By following these steps, you should be able to run the script without encountering any error.
+By following these steps, you should be able to run the script without encountering any error.<br>
+After executing the above mentioned steps, the 'encrypted_image.jpg' would now be generated and saved in the same directory as the code and input image.
